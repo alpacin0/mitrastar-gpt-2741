@@ -1,6 +1,6 @@
-mitrastar-gpt-2741
-Mitrastar HGU GPT-2741GNAC 
-OS: linux 2.6.36 with BusyBox
+mitrastar-gpt-2741\
+Mitrastar HGU GPT-2741GNAC \
+OS: linux 2.6.36 with BusyBox\
 ![kernel](https://github.com/alpacin0/mitrastar-gpt-2741/assets/16215180/c79601fe-73f3-4586-98d5-1344c0a1d7a8)
 
 Escalation:
